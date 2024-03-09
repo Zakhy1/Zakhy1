@@ -4,6 +4,7 @@
 #
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-181818?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-181818?style=for-the-badge&logo=javascript)
 ![Django](https://img.shields.io/badge/-Django-181818?style=for-the-badge&logo=Django)
 ![FLask](https://img.shields.io/badge/-Flask-181818?style=for-the-badge&logo=Flask)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-181818?style=for-the-badge&logo=FastAPI)
