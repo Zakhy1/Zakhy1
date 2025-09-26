@@ -1,6 +1,6 @@
 [![Header](https://github.com/Zakhy1/Zakhy1/blob/main/assets/Group_95.png)](https://vk.com/justhiking)
 
-### I'm a beginner Software Engineer
+### I'm Software Engineer
 #
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-181818?style=for-the-badge&logo=python&logoColor=blue)
